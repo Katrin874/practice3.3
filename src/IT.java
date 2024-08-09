@@ -1,0 +1,3 @@
+public enum IT {
+    FULLSTACK_DEV, FRONTED_DEV, HQ, BACKEND_DEV
+}
